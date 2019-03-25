@@ -1,28 +1,38 @@
 # Disaster Shop
 The DisasterShop Application is built using ASP.Net Core 2.1 and EntityFramework Core 2. It is an E-commerce Application designed to demonstrate ASP.Net Core fundamental concepts.
 
+
+## Prerequisites
+Installations: 
+* Visual Studio
+* .NET Core 2.1
+* .NET Framework
+
+## Getting Started
+
+
 ## File list
-* DisasterShop (folder)
+* DisasterShop 
     * appsettings.Development.json
     * appsettings.json
-    * Controllers (folder)
+    * Controllers 
         * CartController.cs
         * CheckoutController.cs
         * DisasterController.cs
         * HomeController.cs
         * ShopReportController.cs
         * StateController.cs
-    * Data (folder)
+    * Data 
         * DisasterType.cs
         * Product.cs
         * ProductImage.cs
-    * Models (folder)
+    * Models
         * ErrorViewModel.cs
         * PositionViewModel.cs
-    * Views (folder)
+    * Views 
         * _ViewImports.cshtml
         * _ViewStart.cshtml
-        * Cart (folder)
+        * Cart 
             * Index.cshtml
         * Checkout
             * Index.cshtml
@@ -42,9 +52,3 @@ The DisasterShop Application is built using ASP.Net Core 2.1 and EntityFramework
 * readme.md
 
 
-## Prerequisites
-* Visual Studio
-* .NET Core 2.1
-* .NET Framework
-
-## Getting Started
