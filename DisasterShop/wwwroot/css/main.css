@@ -1,0 +1,36 @@
+﻿*{
+    /*border: 1px solid red;*/
+}
+
+.mainBody {
+    background: url("damage.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 75vh;
+    padding: 5%;
+    -webkit-filter: grayscale(100%); /* Safari */
+    filter: grayscale(100%);
+}
+
+#mainText {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 1% 2% 2% 2%;
+}
+
+.mainPage {
+    font-family: 'Kanit', sans-serif;
+}
+
+#mainShopH3 {
+    margin-top: 5%;
+    /*text-align: center;*/
+    color: white;
+}
+
+#mainShopH2 {
+    color: white;
+}
+
+
+
+

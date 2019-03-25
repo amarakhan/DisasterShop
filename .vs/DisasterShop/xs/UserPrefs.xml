@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{A8FAA98C-CB43-4DFD-B2FF-CB4BF80D46BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DisasterShop/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="DisasterShop/Data/DisasterType.cs" Line="19" Column="2" />
+      <File FileName="DisasterShop/Controllers/ShopReportController.cs" Line="4" Column="30" />
+      <File FileName="DisasterShop/Views/Disaster/NaturalDisaster.cshtml" Line="9" Column="7" />
+      <File FileName="DisasterShop/Views/Disaster/PostApocalypse.cshtml" Line="10" Column="24" />
+      <File FileName="DisasterShop/Controllers/HomeController.cs" Line="37" Column="35" />
+      <File FileName="DisasterShop/wwwroot/js/position.js" Line="16" Column="1" />
+      <File FileName="DisasterShop/Controllers/StateController.cs" Line="21" Column="2" />
+      <File FileName="DisasterShop/Controllers/ABCReportController.cs" Line="20" Column="6" />
+      <File FileName="DisasterShop/Views/ABCReport/Index.cshtml" Line="6" Column="20" />
+      <File FileName="DisasterShop/Models/ABCReportModel.cs" Line="7" Column="10" />
+      <File FileName="DisasterShop/Controllers/CartController.cs" Line="1" Column="1" />
+      <File FileName="DisasterShop/Controllers/CheckoutController.cs" Line="1" Column="1" />
+      <File FileName="DisasterShop/Controllers/DisasterController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DisasterShop" expanded="True">
+            <Node name="DisasterShop" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ABCReport" expanded="True" />
+                <Node name="Cart" expanded="True" />
+                <Node name="Checkout" expanded="True" />
+                <Node name="Disaster" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="images" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DisasterShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

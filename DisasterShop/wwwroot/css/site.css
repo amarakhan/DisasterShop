@@ -1,0 +1,76 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #daceb8;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+
+#navColor0 {
+    background-color: #daceb8;
+    border: #daceb8;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+     text-decoration: underline;
+     color: black;
+}
+
+#cartColor{
+    color: black;
+}
+
+#cartColor:hover{
+    text-decoration: underline;
+}
+
+.navbar-brand{
+    background-color: black;
+    margin: 2px;
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    background-color: black;
+    margin: 4px;
+    color: white;
+}
+
+.navbar-inverse .navbar-brand :hover{
+    background-color: black;
+    margin: 4px;
+    color: white;
+}
+
+#navColor:focus, #navColor:hover {
+    background-color: black;
+    color: white;
+}
+
+.navbar-inverse .navbar-toggle {
+    /*border-color: #333;
+    background-color: #333;*/
+    border-color: white;
+    background-color: white;
+}
