@@ -10,9 +10,10 @@ namespace DisasterShop.Controllers
 {
     public class DisasterController : Controller
     {
-        // GET: /<controller>/
+
         public IActionResult NaturalDisaster()
         {
+           
             return View();
         }
         public IActionResult PostApocalypse()

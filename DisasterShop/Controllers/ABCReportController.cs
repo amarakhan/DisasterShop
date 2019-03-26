@@ -32,7 +32,7 @@ namespace DisasterShop.Controllers
         {
             ABCReportModel model = new ABCReportModel();
 
-            string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ABC;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            //string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ABC;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
             return View(model);
         }

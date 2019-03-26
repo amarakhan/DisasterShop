@@ -1,28 +1,30 @@
 ﻿<Properties StartupConfiguration="{A8FAA98C-CB43-4DFD-B2FF-CB4BF80D46BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DisasterShop/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DisasterShop/Program.cs">
     <Files>
-      <File FileName="DisasterShop/Data/DisasterType.cs" Line="19" Column="2" />
-      <File FileName="DisasterShop/Controllers/ShopReportController.cs" Line="4" Column="30" />
-      <File FileName="DisasterShop/Views/Disaster/NaturalDisaster.cshtml" Line="9" Column="7" />
-      <File FileName="DisasterShop/Views/Disaster/PostApocalypse.cshtml" Line="10" Column="24" />
-      <File FileName="DisasterShop/Controllers/HomeController.cs" Line="37" Column="35" />
+      <File FileName="DisasterShop/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="DisasterShop/wwwroot/js/position.js" Line="16" Column="1" />
       <File FileName="DisasterShop/Controllers/StateController.cs" Line="21" Column="2" />
-      <File FileName="DisasterShop/Controllers/ABCReportController.cs" Line="20" Column="6" />
+      <File FileName="DisasterShop/Controllers/ABCReportController.cs" Line="25" Column="2" />
       <File FileName="DisasterShop/Views/ABCReport/Index.cshtml" Line="6" Column="20" />
-      <File FileName="DisasterShop/Models/ABCReportModel.cs" Line="7" Column="10" />
-      <File FileName="DisasterShop/Controllers/CartController.cs" Line="1" Column="1" />
-      <File FileName="DisasterShop/Controllers/CheckoutController.cs" Line="1" Column="1" />
+      <File FileName="DisasterShop/Controllers/CartController.cs" Line="20" Column="1" />
+      <File FileName="DisasterShop/Startup.cs" Line="46" Column="14" />
+      <File FileName="DisasterShop/Views/Home/Index.cshtml" Line="9" Column="8" />
       <File FileName="DisasterShop/Controllers/DisasterController.cs" Line="1" Column="1" />
+      <File FileName="DisasterShop/appsettings.json" Line="7" Column="23" />
+      <File FileName="DisasterShop/Controllers/CheckoutController.cs" Line="1" Column="1" />
+      <File FileName="DisasterShop/Controllers/ShopReportController.cs" Line="17" Column="27" />
+      <File FileName="DisasterShop/Data/ApplicationDbContext.cs" Line="15" Column="6" />
+      <File FileName="DisasterShop/Data/DisasterType.cs" Line="18" Column="6" />
+      <File FileName="DisasterShop/Data/Product.cs" Line="8" Column="25" />
+      <File FileName="DisasterShop/Data/ProductImage.cs" Line="13" Column="1" />
+      <File FileName="DisasterShop/Program.cs" Line="23" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DisasterShop" expanded="True">
             <Node name="DisasterShop" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
@@ -35,10 +37,20 @@
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-                <Node name="images" expanded="True" />
                 <Node name="js" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="DisasterShop" expanded="True" selected="True">
+            <Node name="DisasterShop" expanded="True">
+              <Node name="AspNetCore" expanded="True" />
+              <Node name="DisasterShop" expanded="True" />
+              <Node name="NaturalDisasterShop" expanded="True" />
             </Node>
           </Node>
         </State>
