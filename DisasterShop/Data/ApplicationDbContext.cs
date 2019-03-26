@@ -11,6 +11,8 @@ namespace DisasterShop.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
+
+        public DbSet<DisasterType> DisasterTypes { get; set; }
       
     }
 }
